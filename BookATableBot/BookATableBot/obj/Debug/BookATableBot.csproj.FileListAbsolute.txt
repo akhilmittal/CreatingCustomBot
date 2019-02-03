@@ -1,0 +1,55 @@
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\obj\Debug\BookATableBot.csproj.CoreCompileInputs.cache
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Bot Application.dll.config
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Bot Application.dll
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Bot Application.pdb
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Autofac.dll
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Chronic.dll
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Google.Apis.Auth.dll
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Google.Apis.Auth.PlatformServices.dll
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Google.Apis.Core.dll
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Google.Apis.Dialogflow.v2.dll
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Google.Apis.dll
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Google.Apis.PlatformServices.dll
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Microsoft.Bot.Builder.dll
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Microsoft.Bot.Connector.dll
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Newtonsoft.Json.dll
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\System.Net.Http.Formatting.dll
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\System.Web.Http.dll
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\System.Web.Http.WebHost.dll
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Autofac.xml
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Google.Apis.pdb
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Google.Apis.xml
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Google.Apis.Auth.pdb
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Google.Apis.Auth.xml
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Google.Apis.Core.pdb
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Google.Apis.Core.xml
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Google.Apis.Dialogflow.v2.pdb
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Google.Apis.Dialogflow.v2.xml
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Microsoft.Bot.Builder.xml
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Microsoft.Bot.Connector.xml
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\Newtonsoft.Json.xml
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\System.Net.Http.Formatting.xml
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\System.Web.Http.xml
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\System.Web.Http.WebHost.xml
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\obj\Debug\BookATableBot.csproj.CopyComplete
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\obj\Debug\Bot Application.dll
+D:\Slack\Creating a Universal Bot\Code\BookATableBot\BookATableBot\obj\Debug\Bot Application.pdb
